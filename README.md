@@ -2,6 +2,9 @@
 
 - [mvn clean install vs. deploy vs. release](http://stackoverflow.com/questions/3660759/mvn-clean-install-vs-deploy-vs-release)
 
+# front-end-angular
+- [xufei/blog](https://github.com/xufei/blog)
+
 
 # cloud computing
 
