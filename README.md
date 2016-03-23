@@ -4,7 +4,7 @@
 
 # front-end-angular
 - [xufei/blog](https://github.com/xufei/blog)
-
+- [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 
 # cloud computing
 
