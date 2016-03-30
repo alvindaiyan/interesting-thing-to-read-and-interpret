@@ -6,6 +6,7 @@
 - [xufei/blog](https://github.com/xufei/blog)
 - [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - [es6 tutorial](http://ccoenraets.github.io/es6-tutorial/ecmascript6-setup-babel.html)
+
 # cloud computing
 
 - [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
