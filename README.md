@@ -7,6 +7,7 @@
 - [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - [es6 tutorial](http://ccoenraets.github.io/es6-tutorial/ecmascript6-setup-babel.html)
 - [angular tutorial](https://github.com/angular/angular.js/wiki)
+- [gulp build](http://blog.h5jun.com/post/gulp-build.html)
 
 # cloud computing
 
