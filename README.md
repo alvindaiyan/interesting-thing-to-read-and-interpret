@@ -8,6 +8,7 @@
 - [es6 tutorial](http://ccoenraets.github.io/es6-tutorial/ecmascript6-setup-babel.html)
 - [angular tutorial](https://github.com/angular/angular.js/wiki)
 - [gulp build](http://blog.h5jun.com/post/gulp-build.html)
+- [angular2](http://blog.csdn.net/github_33116729/article/details/50688208)
 
 # cloud computing
 
