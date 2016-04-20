@@ -1,6 +1,8 @@
-# stackoverflow-java-qa
+# Java Knowledge
 
 - [mvn clean install vs. deploy vs. release](http://stackoverflow.com/questions/3660759/mvn-clean-install-vs-deploy-vs-release)
+- [JAX-RS方式的RESTful Web Service开发](http://han-zw.iteye.com/blog/1197476)
+- [Spring MVC与JAX-RS比较与分析](http://m-hl.iteye.com/blog/724688)
 
 # front-end-angular
 - [xufei/blog](https://github.com/xufei/blog)
