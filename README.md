@@ -1,4 +1,4 @@
-# Java Knowledge
+# java knowledge
 
 - [mvn clean install vs. deploy vs. release](http://stackoverflow.com/questions/3660759/mvn-clean-install-vs-deploy-vs-release)
 - [JAX-RS方式的RESTful Web Service开发](http://han-zw.iteye.com/blog/1197476)
@@ -19,6 +19,7 @@
 # cloud computing
 
 - [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
+- [Docker 深入浅出](http://www.infoq.com/cn/DockerDeep)
 - [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
 - [Distributed Computing](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [《SDN软件定义网络从入门到精通》导论课](http://mp.weixin.qq.com/s?__biz=MjM5MTM3MzIzMg==&mid=209513316&idx=1&sn=e5dbd9a2ccccb88d0ee5c4d5790699c1#rd)
