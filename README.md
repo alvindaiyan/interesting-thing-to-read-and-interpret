@@ -22,6 +22,7 @@
 - [Docker 深入浅出](http://www.infoq.com/cn/DockerDeep)
 - [Docker data container](https://docs.docker.com/engine/tutorials/dockervolumes/)
 - [Dockerized postgresql development environment](http://ryaneschinger.com/blog/dockerized-postgresql-development-environment/)
+- [Swarm: Manage docker clustering](https://docs.docker.com/swarm/)
 - [8 proven real world ways to use docker](https://www.airpair.com/docker/posts/8-proven-real-world-ways-to-use-docker)
 - [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
 - [Distributed Computing](https://pdos.csail.mit.edu/6.824/schedule.html)
