@@ -23,6 +23,7 @@
 - [Docker data container](https://docs.docker.com/engine/tutorials/dockervolumes/)
 - [Dockerized postgresql development environment](http://ryaneschinger.com/blog/dockerized-postgresql-development-environment/)
 - [Apache Load Balancing for tomcat 8](https://alextheedom.wordpress.com/microservices/set-up-tomcat-apache-and-mod_jk-cluster/)
+- [Apache Load Balancing with Sticky Session](http://blogs.encodo.ch/news/view_article.php?id=18)
 - [Swarm: Manage docker clustering](https://docs.docker.com/swarm/)
 - [8 proven real world ways to use docker](https://www.airpair.com/docker/posts/8-proven-real-world-ways-to-use-docker)
 - [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
