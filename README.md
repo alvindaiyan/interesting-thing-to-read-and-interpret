@@ -4,6 +4,7 @@
 - [ ] [JAX-RS方式的RESTful Web Service开发](http://han-zw.iteye.com/blog/1197476)
 - [ ] [Spring MVC与JAX-RS比较与分析](http://m-hl.iteye.com/blog/724688)
 - [X] [jetty-9-ssl-https](https://newfivefour.com/jetty-9-ssl-https.html)
+- [ ] [myBatis mapper xml documentation](http://www.mybatis.org/mybatis-3/sqlmap-xml.html)
 
 # front-end-angular
 - [ ] [xufei/blog](https://github.com/xufei/blog)
