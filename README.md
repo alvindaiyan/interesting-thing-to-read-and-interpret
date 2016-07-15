@@ -16,6 +16,7 @@
 - [ ] [mastering-the-scope-of-a-directive-in-angularjs](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
 - [ ] [Understanding Scope](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
 - [ ] [Mastering AngularJs Directives](http://code.tutsplus.com/tutorials/mastering-angularjs-directives--cms-22511)
+- [ ] [refactoring angular apps to components](http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)
 
 # cloud computing
 
