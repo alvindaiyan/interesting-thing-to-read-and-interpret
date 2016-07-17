@@ -7,6 +7,7 @@
 - [ ] [myBatis mapper xml documentation](http://www.mybatis.org/mybatis-3/sqlmap-xml.html)
 
 # front-end-angular
+- [ ] [angular-tutorial](https://docs.angularjs.org/tutorial)
 - [ ] [xufei/blog](https://github.com/xufei/blog)
 - [X] [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - [ ] [es6 tutorial](http://ccoenraets.github.io/es6-tutorial/ecmascript6-setup-babel.html)
