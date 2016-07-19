@@ -18,6 +18,7 @@
 - [ ] [Understanding Scope](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
 - [ ] [Mastering AngularJs Directives](http://code.tutsplus.com/tutorials/mastering-angularjs-directives--cms-22511)
 - [ ] [refactoring angular apps to components](http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)
+- [ ] [angular with es2016](http://egorsmirnov.me/assets/berlin-angular-meetup-26/#/)
 
 # cloud computing
 
