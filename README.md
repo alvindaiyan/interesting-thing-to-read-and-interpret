@@ -5,6 +5,7 @@
 - [ ] [Spring MVC与JAX-RS比较与分析](http://m-hl.iteye.com/blog/724688)
 - [X] [jetty-9-ssl-https](https://newfivefour.com/jetty-9-ssl-https.html)
 - [ ] [myBatis mapper xml documentation](http://www.mybatis.org/mybatis-3/sqlmap-xml.html)
+- [X] [jersey security setup](https://simplapi.wordpress.com/2015/09/19/jersey-jax-rs-securitycontext-in-action/)
 
 # front-end-angular
 - [ ] [angular-tutorial](https://docs.angularjs.org/tutorial)
