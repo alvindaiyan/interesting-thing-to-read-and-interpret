@@ -11,7 +11,6 @@
 - [ ] [angular-tutorial](https://docs.angularjs.org/tutorial)
 - [ ] [xufei/blog](https://github.com/xufei/blog)
 - [X] [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
-- [ ] [es6 tutorial](http://ccoenraets.github.io/es6-tutorial/ecmascript6-setup-babel.html)
 - [ ] [angular tutorial](https://github.com/angular/angular.js/wiki)
 - [ ] [gulp build](http://blog.h5jun.com/post/gulp-build.html)
 - [ ] [Angular2学习笔记](http://blog.csdn.net/github_33116729/article/category/6099400)
