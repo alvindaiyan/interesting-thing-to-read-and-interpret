@@ -30,7 +30,7 @@
 - [X] [Apache Load Balancing for tomcat 8](https://alextheedom.wordpress.com/microservices/set-up-tomcat-apache-and-mod_jk-cluster/)
 - [X] [Apache Load Balancing with Sticky Session](http://blogs.encodo.ch/news/view_article.php?id=18)
 - [ ] [Swarm: Manage docker clustering](https://docs.docker.com/swarm/)
-- [ ] [8 proven real world ways to use docker](https://www.airpair.com/docker/posts/8-proven-real-world-ways-to-use-docker)
+- [X] [8 proven real world ways to use docker](https://www.airpair.com/docker/posts/8-proven-real-world-ways-to-use-docker)
 - [X] [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
 - [ ] [Distributed Computing](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [ ] [《SDN软件定义网络从入门到精通》导论课](http://mp.weixin.qq.com/s?__biz=MjM5MTM3MzIzMg==&mid=209513316&idx=1&sn=e5dbd9a2ccccb88d0ee5c4d5790699c1#rd)
