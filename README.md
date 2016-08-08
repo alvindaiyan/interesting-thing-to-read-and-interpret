@@ -7,6 +7,7 @@
 - [ ] [myBatis mapper xml documentation](http://www.mybatis.org/mybatis-3/sqlmap-xml.html)
 - [ ] [myBatis example](http://edwin.baculsoft.com/2010/12/beginning-mybatis-3-part-2-how-to-handle-one-to-many-and-one-to-one-selects/)
 - [X] [jersey security setup](https://simplapi.wordpress.com/2015/09/19/jersey-jax-rs-securitycontext-in-action/)
+- [ ] [how to install elasticsearch logstash and kibana elk stack on ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04)
 
 # front-end-angular
 - [ ] [angular-tutorial](https://docs.angularjs.org/tutorial)
