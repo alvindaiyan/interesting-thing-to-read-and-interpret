@@ -9,6 +9,8 @@
 - [ ] [how to install elasticsearch logstash and kibana elk stack on ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04)
 - [ ] [uber: mysql migration](https://eng.uber.com/mysql-migration/)
 - [ ] [Java中的多线程](http://www.jianshu.com/p/40d4c7aebd66)
+- [ ] [lambda expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
+- [ ] [java 8 tutorial](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)
 
 # Golang
 - [ ] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
