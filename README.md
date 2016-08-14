@@ -1,5 +1,4 @@
-# java knowledge
-
+# Java Knowledge
 - [X] [mvn clean install vs. deploy vs. release](http://stackoverflow.com/questions/3660759/mvn-clean-install-vs-deploy-vs-release)
 - [ ] [JAX-RS方式的RESTful Web Service开发](http://han-zw.iteye.com/blog/1197476)
 - [ ] [Spring MVC与JAX-RS比较与分析](http://m-hl.iteye.com/blog/724688)
@@ -10,7 +9,10 @@
 - [ ] [how to install elasticsearch logstash and kibana elk stack on ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04)
 - [ ] [uber: mysql migration](https://eng.uber.com/mysql-migration/)
 
-# front-end-angular
+# Golang
+- [ ] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
+
+# Front-End-Angular
 - [ ] [angular-tutorial](https://docs.angularjs.org/tutorial)
 - [ ] [xufei/blog](https://github.com/xufei/blog)
 - [X] [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
@@ -24,8 +26,7 @@
 - [X] [angular with es2016](http://egorsmirnov.me/assets/berlin-angular-meetup-26/#/)
 - [X] [ES6 for humans](https://github.com/metagrover/ES6-for-humans)
 
-# cloud computing
-
+# Cloud Computing
 - [ ] [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 - [X] [Docker 深入浅出](http://www.infoq.com/cn/DockerDeep)
 - [X] [Docker data container](https://docs.docker.com/engine/tutorials/dockervolumes/)
