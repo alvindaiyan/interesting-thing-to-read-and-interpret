@@ -8,6 +8,7 @@
 - [X] [jersey security setup](https://simplapi.wordpress.com/2015/09/19/jersey-jax-rs-securitycontext-in-action/)
 - [ ] [how to install elasticsearch logstash and kibana elk stack on ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04)
 - [ ] [uber: mysql migration](https://eng.uber.com/mysql-migration/)
+- [ ] [Java中的多线程](http://www.jianshu.com/p/40d4c7aebd66)
 
 # Golang
 - [ ] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
