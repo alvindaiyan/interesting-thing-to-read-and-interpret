@@ -28,6 +28,7 @@
 - [ ] [refactoring angular apps to components](http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)
 - [X] [angular with es2016](http://egorsmirnov.me/assets/berlin-angular-meetup-26/#/)
 - [X] [ES6 for humans](https://github.com/metagrover/ES6-for-humans)
+- [ ] [一个前端程序猿的Sublime Text3的自我修养](http://guowenfh.github.io/2015/12/26/SublimeText/)
 
 # Cloud Computing
 - [ ] [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
