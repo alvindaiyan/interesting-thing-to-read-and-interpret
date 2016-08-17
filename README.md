@@ -11,6 +11,7 @@
 - [ ] [Java中的多线程](http://www.jianshu.com/p/40d4c7aebd66)
 - [ ] [lambda expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 - [ ] [java 8 tutorial](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)
+- [ ] [sonar](http://docs.sonarqube.org/display/HOME/SonarQube+Platform)
 
 # Golang
 - [ ] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
