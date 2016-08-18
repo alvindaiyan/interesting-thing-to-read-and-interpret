@@ -45,4 +45,4 @@
 - [ ] [《SDN软件定义网络从入门到精通》导论课](http://mp.weixin.qq.com/s?__biz=MjM5MTM3MzIzMg==&mid=209513316&idx=1&sn=e5dbd9a2ccccb88d0ee5c4d5790699c1#rd)
 - [X] [raft presentation](http://thesecretlivesofdata.com/raft/)
 - [ ] [apex: serverless architecture](http://apex.run/)
-- [ ] [Jenkins管道最佳实践Top 10](http://dockone.io/article/1531)
+- [ ] [top 10 best practices for jenkins pipeline](https://dzone.com/articles/top-10-best-practices-for-jenkins-pipeline)
