@@ -47,3 +47,4 @@
 - [X] [raft presentation](http://thesecretlivesofdata.com/raft/)
 - [ ] [apex: serverless architecture](http://apex.run/)
 - [X] [top 10 best practices for jenkins pipeline](https://dzone.com/articles/top-10-best-practices-for-jenkins-pipeline)
+- [ ] [5 aws mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
