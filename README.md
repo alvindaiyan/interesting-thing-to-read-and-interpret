@@ -31,6 +31,7 @@
 - [X] [ES6 for humans](https://github.com/metagrover/ES6-for-humans)
 - [ ] [一个前端程序猿的Sublime Text3的自我修养](http://guowenfh.github.io/2015/12/26/SublimeText/)
 - [ ] [webpack-dev-server](https://segmentfault.com/a/1190000006670084)
+- [ ] [前端学习路径](https://zhuanlan.zhihu.com/p/21935921)
 
 # Cloud Computing
 - [ ] [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
