@@ -51,3 +51,4 @@
 - [ ] [apex: serverless architecture](http://apex.run/)
 - [X] [top 10 best practices for jenkins pipeline](https://dzone.com/articles/top-10-best-practices-for-jenkins-pipeline)
 - [ ] [5 aws mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
+- [ ] [announcing atlassian bitbucket support for aws codedeploy](https://aws.amazon.com/blogs/apn/announcing-atlassian-bitbucket-support-for-aws-codedeploy/)
