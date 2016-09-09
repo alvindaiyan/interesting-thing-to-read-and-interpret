@@ -34,6 +34,7 @@
 - [ ] [前端学习路径](https://zhuanlan.zhihu.com/p/21935921)
 - [ ] [Redux 入门](https://segmentfault.com/a/1190000005925630)
 - [ ] [react native](http://facebook.github.io/react-native/)
+- [ ] [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)
 
 # Cloud Computing
 - [ ] [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
