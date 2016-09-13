@@ -1,7 +1,7 @@
 # Java Knowledge
 - [X] [mvn clean install vs. deploy vs. release](http://stackoverflow.com/questions/3660759/mvn-clean-install-vs-deploy-vs-release)
 - [ ] [JAX-RS方式的RESTful Web Service开发](http://han-zw.iteye.com/blog/1197476)
-- [ ] [Spring MVC与JAX-RS比较与分析](http://m-hl.iteye.com/blog/724688)
+- [ ] [Spring MVC与JAX-RS比较与分析](http://www.infoq.com/cn/articles/springmvc_jsx-rs)
 - [X] [jetty-9-ssl-https](https://newfivefour.com/jetty-9-ssl-https.html)
 - [X] [myBatis mapper xml documentation](http://www.mybatis.org/mybatis-3/sqlmap-xml.html)
 - [X] [myBatis example](http://edwin.baculsoft.com/2010/12/beginning-mybatis-3-part-2-how-to-handle-one-to-many-and-one-to-one-selects/)
