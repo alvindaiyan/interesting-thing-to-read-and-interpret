@@ -15,7 +15,7 @@
 # Golang
 - [ ] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
 
-# Front-End-Angular
+# Front-End
 - [ ] [angular-tutorial](https://docs.angularjs.org/tutorial)
 - [ ] [xufei/blog](https://github.com/xufei/blog)
 - [X] [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
