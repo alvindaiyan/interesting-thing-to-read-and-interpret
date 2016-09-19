@@ -50,9 +50,10 @@
 - [X] [raft presentation](http://thesecretlivesofdata.com/raft/)
 - [ ] [apex: serverless architecture](http://apex.run/)
 - [X] [top 10 best practices for jenkins pipeline](https://dzone.com/articles/top-10-best-practices-for-jenkins-pipeline)
+- [ ] [how to install elasticsearch logstash and kibana elk stack on ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04)
 
 # AWS
 - [X] [5 aws mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
 - [ ] [announcing atlassian bitbucket support for aws codedeploy](https://aws.amazon.com/blogs/apn/announcing-atlassian-bitbucket-support-for-aws-codedeploy/)
 - [ ] [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
-- [ ] [how to install elasticsearch logstash and kibana elk stack on ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04)
+
