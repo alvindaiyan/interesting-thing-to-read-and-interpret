@@ -13,6 +13,7 @@
 - [ ] [sonar](http://docs.sonarqube.org/display/HOME/SonarQube+Platform)
 - [ ] [优雅的SpringMvc+Mybatis整合之路](http://www.jianshu.com/p/5124eef40bf0)
 - [ ] [Solr 6.2 搭建搜索引擎应用实践](http://www.jianshu.com/p/3d64412f8c40)
+- [ ] [从SSH单体应用到微服务架构-5](http://blog.lixf.cn/essay/2016/09/09/microservice-5/)
 
 # Golang
 - [ ] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
