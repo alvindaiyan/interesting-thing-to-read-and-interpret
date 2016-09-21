@@ -56,4 +56,5 @@
 - [X] [5 aws mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
 - [ ] [announcing atlassian bitbucket support for aws codedeploy](https://aws.amazon.com/blogs/apn/announcing-atlassian-bitbucket-support-for-aws-codedeploy/)
 - [ ] [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
+- [ ] [encrypt your webiste with lets encrypt](https://macken.me/article/encrypt-your-webiste-with-lets-encrypt)
 
