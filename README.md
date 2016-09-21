@@ -2,6 +2,7 @@
 - [ ] [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [X] [从SSH单体应用到微服务架构-5](http://blog.lixf.cn/essay/2016/09/09/microservice-5/)
 - [ ] [优雅的SpringMvc+Mybatis整合之路](http://www.jianshu.com/p/5124eef40bf0)
+- [ ] [极速发展的饿了么订单系统架构演进](http://www.infoq.com/cn/articles/eleme-order-system-architecture-evolution)
 
 
 # Java Knowledge
