@@ -1,3 +1,9 @@
+# Backend Architecture
+- [ ] [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [X] [从SSH单体应用到微服务架构-5](http://blog.lixf.cn/essay/2016/09/09/microservice-5/)
+- [ ] [优雅的SpringMvc+Mybatis整合之路](http://www.jianshu.com/p/5124eef40bf0)
+
+
 # Java Knowledge
 - [X] [mvn clean install vs. deploy vs. release](http://stackoverflow.com/questions/3660759/mvn-clean-install-vs-deploy-vs-release)
 - [ ] [JAX-RS方式的RESTful Web Service开发](http://han-zw.iteye.com/blog/1197476)
@@ -11,9 +17,7 @@
 - [ ] [lambda expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 - [ ] [java 8 tutorial](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)
 - [ ] [sonar](http://docs.sonarqube.org/display/HOME/SonarQube+Platform)
-- [ ] [优雅的SpringMvc+Mybatis整合之路](http://www.jianshu.com/p/5124eef40bf0)
 - [ ] [Solr 6.2 搭建搜索引擎应用实践](http://www.jianshu.com/p/3d64412f8c40)
-- [ ] [从SSH单体应用到微服务架构-5](http://blog.lixf.cn/essay/2016/09/09/microservice-5/)
 
 # Golang
 - [ ] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
