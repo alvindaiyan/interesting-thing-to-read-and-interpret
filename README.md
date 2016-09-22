@@ -19,6 +19,7 @@
 - [ ] [java 8 tutorial](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)
 - [ ] [sonar](http://docs.sonarqube.org/display/HOME/SonarQube+Platform)
 - [ ] [Solr 6.2 搭建搜索引擎应用实践](http://www.jianshu.com/p/3d64412f8c40)
+- [ ] [How To Use RxJava](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava)
 
 # Golang
 - [ ] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
