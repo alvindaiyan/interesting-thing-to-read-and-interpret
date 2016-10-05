@@ -23,6 +23,7 @@
 
 # Golang
 - [ ] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
+- [ ] [Introduction go debugging gdb](https://lincolnloop.com/blog/introduction-go-debugging-gdb/)
 
 # Front-End
 - [ ] [angular-tutorial](https://docs.angularjs.org/tutorial)
