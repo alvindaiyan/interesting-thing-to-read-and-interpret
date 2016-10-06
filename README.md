@@ -3,6 +3,7 @@
 - [X] [从SSH单体应用到微服务架构-5](http://blog.lixf.cn/essay/2016/09/09/microservice-5/)
 - [ ] [优雅的SpringMvc+Mybatis整合之路](http://www.jianshu.com/p/5124eef40bf0)
 - [ ] [极速发展的饿了么订单系统架构演进](http://www.infoq.com/cn/articles/eleme-order-system-architecture-evolution)
+- [ ] [Spring Data Cassandra - Reference Documentation](http://docs.spring.io/spring-data/cassandra/docs/1.4.4.RELEASE/reference/html/)
 
 
 # Java Knowledge
