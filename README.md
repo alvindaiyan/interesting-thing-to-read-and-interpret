@@ -70,3 +70,6 @@
 - [ ] [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 - [ ] [encrypt your webiste with lets encrypt](https://macken.me/article/encrypt-your-webiste-with-lets-encrypt)
 
+# Machine Learning
+- [ ] [深度丨从零搭建推荐体系](http://www.jianshu.com/p/d585b3938dea)
+
