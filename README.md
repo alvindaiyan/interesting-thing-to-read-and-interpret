@@ -70,6 +70,7 @@
 - [ ] [announcing atlassian bitbucket support for aws codedeploy](https://aws.amazon.com/blogs/apn/announcing-atlassian-bitbucket-support-for-aws-codedeploy/)
 - [ ] [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 - [ ] [encrypt your webiste with lets encrypt](https://macken.me/article/encrypt-your-webiste-with-lets-encrypt)
+- [ ] [Configure an HTTPS Listener for Your Classic Load Balancer](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-add-or-delete-listeners.html)
 
 # Machine Learning
 - [ ] [深度丨从零搭建推荐体系](http://www.jianshu.com/p/d585b3938dea)
