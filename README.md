@@ -63,6 +63,7 @@
 - [X] [top 10 best practices for jenkins pipeline](https://dzone.com/articles/top-10-best-practices-for-jenkins-pipeline)
 - [ ] [how to install elasticsearch logstash and kibana elk stack on ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04)
 - [ ] [The Future of OpenStack's EC2 APIs](http://cloudscaling.com/blog/openstack/the-future-of-openstacks-ec2-apis/)
+- [ ] [openstack theory and practice](http://coreitpro.com/presentations/openstack-theory-and-practice/#/intro)
 
 # Docker and Vagrant
 
