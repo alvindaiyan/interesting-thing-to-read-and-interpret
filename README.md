@@ -49,22 +49,27 @@
 - [ ] [前端面试之CSS总结(上)](https://segmentfault.com/a/1190000006890725)
 - [ ] [Testing AngularJS with Jasmine and Karma Part 1,](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1) [Part 2](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-2)
 
-# Cloud Computing
+# Cloud Computing General
+
+- [ ] [aws vs openstack](http://kernelmastery.com/aws-vs-openstack/)
 - [ ] [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
-- [X] [Docker 深入浅出](http://www.infoq.com/cn/DockerDeep)
-- [X] [Docker data container](https://docs.docker.com/engine/tutorials/dockervolumes/)
-- [X] [Dockerized postgresql development environment](http://ryaneschinger.com/blog/dockerized-postgresql-development-environment/)
 - [X] [Apache Load Balancing for tomcat 8](https://alextheedom.wordpress.com/microservices/set-up-tomcat-apache-and-mod_jk-cluster/)
 - [X] [Apache Load Balancing with Sticky Session](http://blogs.encodo.ch/news/view_article.php?id=18)
 - [ ] [Swarm: Manage docker clustering](https://docs.docker.com/swarm/)
-- [X] [8 proven real world ways to use docker](https://www.airpair.com/docker/posts/8-proven-real-world-ways-to-use-docker)
-- [X] [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
 - [ ] [Distributed Computing](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [ ] [《SDN软件定义网络从入门到精通》导论课](http://mp.weixin.qq.com/s?__biz=MjM5MTM3MzIzMg==&mid=209513316&idx=1&sn=e5dbd9a2ccccb88d0ee5c4d5790699c1#rd)
 - [X] [raft presentation](http://thesecretlivesofdata.com/raft/)
 - [ ] [apex: serverless architecture](http://apex.run/)
 - [X] [top 10 best practices for jenkins pipeline](https://dzone.com/articles/top-10-best-practices-for-jenkins-pipeline)
 - [ ] [how to install elasticsearch logstash and kibana elk stack on ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04)
+
+# Docker and Vagrant
+
+- [X] [Docker 深入浅出](http://www.infoq.com/cn/DockerDeep)
+- [X] [Docker data container](https://docs.docker.com/engine/tutorials/dockervolumes/)
+- [X] [Dockerized postgresql development environment](http://ryaneschinger.com/blog/dockerized-postgresql-development-environment/)
+- [X] [8 proven real world ways to use docker](https://www.airpair.com/docker/posts/8-proven-real-world-ways-to-use-docker)
+- [X] [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
 
 # AWS
 - [X] [5 aws mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
