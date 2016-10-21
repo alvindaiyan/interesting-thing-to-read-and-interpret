@@ -49,6 +49,7 @@
 - [ ] [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)
 - [ ] [前端面试之CSS总结(上)](https://segmentfault.com/a/1190000006890725)
 - [ ] [Testing AngularJS with Jasmine and Karma Part 1,](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1) [Part 2](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-2)
+- [ ] [Full Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
 # Cloud Computing General
 
