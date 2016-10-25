@@ -1,9 +1,9 @@
 # Backend Architecture
 - [ ] [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [X] [从SSH单体应用到微服务架构-5](http://blog.lixf.cn/essay/2016/09/09/microservice-5/)
-- [ ] [优雅的SpringMvc+Mybatis整合之路](http://www.jianshu.com/p/5124eef40bf0)
+- [X] [优雅的SpringMvc+Mybatis整合之路](http://www.jianshu.com/p/5124eef40bf0)
 - [ ] [极速发展的饿了么订单系统架构演进](http://www.infoq.com/cn/articles/eleme-order-system-architecture-evolution)
-- [ ] [Spring Data Cassandra - Reference Documentation](http://docs.spring.io/spring-data/cassandra/docs/1.4.4.RELEASE/reference/html/)
+- [X] [Spring Data Cassandra - Reference Documentation](http://docs.spring.io/spring-data/cassandra/docs/1.4.4.RELEASE/reference/html/)
 
 
 # Java Knowledge
@@ -19,12 +19,12 @@
 - [ ] [lambda expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 - [ ] [java 8 tutorial](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)
 - [ ] [sonar](http://docs.sonarqube.org/display/HOME/SonarQube+Platform)
-- [ ] [Solr 6.2 搭建搜索引擎应用实践](http://www.jianshu.com/p/3d64412f8c40)
+- [X] [Solr 6.2 搭建搜索引擎应用实践](http://www.jianshu.com/p/3d64412f8c40)
 - [ ] [How To Use RxJava](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava)
 - [ ] [How Does Spring Transactional Really Work](http://blog.jhades.org/how-does-spring-transactional-really-work/)
 
 # Golang
-- [ ] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
+- [X] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
 - [X] [Introduction go debugging gdb](https://lincolnloop.com/blog/introduction-go-debugging-gdb/)
 
 # Front-End
@@ -77,10 +77,10 @@
 
 # AWS
 - [X] [5 aws mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
-- [ ] [announcing atlassian bitbucket support for aws codedeploy](https://aws.amazon.com/blogs/apn/announcing-atlassian-bitbucket-support-for-aws-codedeploy/)
+- [X] [announcing atlassian bitbucket support for aws codedeploy](https://aws.amazon.com/blogs/apn/announcing-atlassian-bitbucket-support-for-aws-codedeploy/)
 - [ ] [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 - [ ] [encrypt your webiste with lets encrypt](https://macken.me/article/encrypt-your-webiste-with-lets-encrypt)
-- [ ] [Configure an HTTPS Listener for Your Classic Load Balancer](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-add-or-delete-listeners.html)
+- [X] [Configure an HTTPS Listener for Your Classic Load Balancer](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-add-or-delete-listeners.html)
 
 # Machine Learning
 - [ ] [深度丨从零搭建推荐体系](http://www.jianshu.com/p/d585b3938dea)
