@@ -1,4 +1,5 @@
 # Backend Architecture
+
 - [ ] [大众点评支付渠道网关系统的实践之路](http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [X] [从SSH单体应用到微服务架构-5](http://blog.lixf.cn/essay/2016/09/09/microservice-5/)
 - [X] [优雅的SpringMvc+Mybatis整合之路](http://www.jianshu.com/p/5124eef40bf0)
@@ -8,7 +9,8 @@
 - [X] [微服务架构的理论基础 - 康威定律](https://yq.aliyun.com/articles/8611)
 
 
-# Java Knowledge
+# Java and Database
+
 - [X] [mvn clean install vs. deploy vs. release](http://stackoverflow.com/questions/3660759/mvn-clean-install-vs-deploy-vs-release)
 - [ ] [JAX-RS方式的RESTful Web Service开发](http://han-zw.iteye.com/blog/1197476)
 - [ ] [Spring MVC与JAX-RS比较与分析](https://www.infoq.com/articles/springmvc_jsx-rs)
@@ -26,6 +28,7 @@
 - [ ] [How Does Spring Transactional Really Work](http://blog.jhades.org/how-does-spring-transactional-really-work/)
 
 # Golang
+
 - [X] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
 - [X] [Introduction go debugging gdb](https://lincolnloop.com/blog/introduction-go-debugging-gdb/)
 
@@ -48,6 +51,7 @@
 - [ ] [Full Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
 ## AngularJS
+
 - [ ] [angular-tutorial](https://docs.angularjs.org/tutorial)
 - [ ] [xufei/blog](https://github.com/xufei/blog)
 - [X] [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
@@ -65,7 +69,9 @@
 - [ ] [Vue 2.0，渐进式前端解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484393&idx=1&sn=142b8e37dfc94de07be211607e468030&chksm=9723612ba054e83db6622a891287af119bb63708f1b7a09aed9149d846c9428ad5abbb822294&mpshare=1&scene=1&srcid=1026oUz3521V74ua0uwTcIWa&from=groupmessage&isappinstalled=0#wechat_redirect)
 
 
-# Cloud Computing General
+# Cloud Computing 
+
+## General
 
 - [ ] [aws vs openstack](http://kernelmastery.com/aws-vs-openstack/)
 - [ ] [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
@@ -83,7 +89,7 @@
 - [X] [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 - [ ] [encrypt your webiste with lets encrypt](https://macken.me/article/encrypt-your-webiste-with-lets-encrypt)
 
-# Docker and Vagrant
+## Container and Virtual Machine: Docker and Vagrant
 
 - [X] [Docker 深入浅出](http://www.infoq.com/cn/DockerDeep)
 - [X] [Docker data container](https://docs.docker.com/engine/tutorials/dockervolumes/)
@@ -91,11 +97,13 @@
 - [X] [8 proven real world ways to use docker](https://www.airpair.com/docker/posts/8-proven-real-world-ways-to-use-docker)
 - [X] [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
 
-# AWS
+## AWS
+
 - [X] [5 aws mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
 - [X] [announcing atlassian bitbucket support for aws codedeploy](https://aws.amazon.com/blogs/apn/announcing-atlassian-bitbucket-support-for-aws-codedeploy/)
 - [X] [Configure an HTTPS Listener for Your Classic Load Balancer](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-add-or-delete-listeners.html)
 
-# Machine Learning
+# Machine Learning and Algorithm
+
 - [ ] [深度丨从零搭建推荐体系](http://www.jianshu.com/p/d585b3938dea)
 
