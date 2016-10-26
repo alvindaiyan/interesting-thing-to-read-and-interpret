@@ -4,6 +4,7 @@
 - [X] [优雅的SpringMvc+Mybatis整合之路](http://www.jianshu.com/p/5124eef40bf0)
 - [ ] [极速发展的饿了么订单系统架构演进](http://www.infoq.com/cn/articles/eleme-order-system-architecture-evolution)
 - [X] [Spring Data Cassandra - Reference Documentation](http://docs.spring.io/spring-data/cassandra/docs/1.4.4.RELEASE/reference/html/)
+- [X] [每个架构师都应该研究下康威定律](http://www.infoq.com/cn/articles/every-architect-should-study-conway-law)
 
 
 # Java Knowledge
