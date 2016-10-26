@@ -26,6 +26,7 @@
 - [X] [Solr 6.2 搭建搜索引擎应用实践](http://www.jianshu.com/p/3d64412f8c40)
 - [ ] [How To Use RxJava](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava)
 - [ ] [How Does Spring Transactional Really Work](http://blog.jhades.org/how-does-spring-transactional-really-work/)
+- [ ] [why is hibernate open session in view considered a bad practice](http://stackoverflow.com/questions/1103363/why-is-hibernate-open-session-in-view-considered-a-bad-practice)
 
 # Golang
 
@@ -43,6 +44,7 @@
 - [ ] [前端学习路径](https://zhuanlan.zhihu.com/p/21935921)
 - [ ] [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)
 - [ ] [前端面试之CSS总结(上)](https://segmentfault.com/a/1190000006890725)
+- [ ] [Node.js error: enospc](http://stackoverflow.com/questions/22475849/node-js-error-enospc/32600959#32600959)
 
 ## ReactJS
 
