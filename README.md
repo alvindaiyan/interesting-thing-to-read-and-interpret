@@ -52,6 +52,8 @@
 - [ ] [前端面试之CSS总结(上)](https://segmentfault.com/a/1190000006890725)
 - [ ] [Testing AngularJS with Jasmine and Karma Part 1,](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1) [Part 2](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-2)
 - [ ] [Full Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+- [ ] [Vue 2.0，渐进式前端解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484393&idx=1&sn=142b8e37dfc94de07be211607e468030&chksm=9723612ba054e83db6622a891287af119bb63708f1b7a09aed9149d846c9428ad5abbb822294&mpshare=1&scene=1&srcid=1026oUz3521V74ua0uwTcIWa&from=groupmessage&isappinstalled=0#wechat_redirect)
+
 
 # Cloud Computing General
 
