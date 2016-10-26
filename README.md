@@ -30,28 +30,38 @@
 - [X] [Introduction go debugging gdb](https://lincolnloop.com/blog/introduction-go-debugging-gdb/)
 
 # Front-End
+## JS General
+
+- [ ] [gulp build](http://blog.h5jun.com/post/gulp-build.html)
+- [X] [ES6 for humans](https://github.com/metagrover/ES6-for-humans)
+- [ ] [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+- [ ] [一个前端程序猿的Sublime Text3的自我修养](http://guowenfh.github.io/2015/12/26/SublimeText/)
+- [ ] [webpack-dev-server](https://segmentfault.com/a/1190000006670084)
+- [ ] [前端学习路径](https://zhuanlan.zhihu.com/p/21935921)
+- [ ] [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)
+- [ ] [前端面试之CSS总结(上)](https://segmentfault.com/a/1190000006890725)
+
+## ReactJS
+
+- [ ] [Redux 入门](https://segmentfault.com/a/1190000005925630)
+- [ ] [react native](http://facebook.github.io/react-native/)
+- [ ] [Full Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+
+## AngularJS
 - [ ] [angular-tutorial](https://docs.angularjs.org/tutorial)
 - [ ] [xufei/blog](https://github.com/xufei/blog)
 - [X] [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - [ ] [angular tutorial](https://github.com/angular/angular.js/wiki)
-- [ ] [gulp build](http://blog.h5jun.com/post/gulp-build.html)
 - [ ] [Angular2学习笔记](http://blog.csdn.net/github_33116729/article/category/6099400)
 - [ ] [mastering-the-scope-of-a-directive-in-angularjs](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
 - [X] [Understanding Scope](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
 - [ ] [Mastering AngularJs Directives](http://code.tutsplus.com/tutorials/mastering-angularjs-directives--cms-22511)
 - [ ] [refactoring angular apps to components](http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)
 - [X] [angular with es2016](http://egorsmirnov.me/assets/berlin-angular-meetup-26/#/)
-- [X] [ES6 for humans](https://github.com/metagrover/ES6-for-humans)
-- [ ] [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-- [ ] [一个前端程序猿的Sublime Text3的自我修养](http://guowenfh.github.io/2015/12/26/SublimeText/)
-- [ ] [webpack-dev-server](https://segmentfault.com/a/1190000006670084)
-- [ ] [前端学习路径](https://zhuanlan.zhihu.com/p/21935921)
-- [ ] [Redux 入门](https://segmentfault.com/a/1190000005925630)
-- [ ] [react native](http://facebook.github.io/react-native/)
-- [ ] [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)
-- [ ] [前端面试之CSS总结(上)](https://segmentfault.com/a/1190000006890725)
 - [ ] [Testing AngularJS with Jasmine and Karma Part 1,](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1) [Part 2](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-2)
-- [ ] [Full Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+
+## VueJS
+
 - [ ] [Vue 2.0，渐进式前端解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484393&idx=1&sn=142b8e37dfc94de07be211607e468030&chksm=9723612ba054e83db6622a891287af119bb63708f1b7a09aed9149d846c9428ad5abbb822294&mpshare=1&scene=1&srcid=1026oUz3521V74ua0uwTcIWa&from=groupmessage&isappinstalled=0#wechat_redirect)
 
 
