@@ -19,7 +19,7 @@
 - [X] [myBatis example](http://edwin.baculsoft.com/2010/12/beginning-mybatis-3-part-2-how-to-handle-one-to-many-and-one-to-one-selects/)
 - [X] [jersey security setup](https://simplapi.wordpress.com/2015/09/19/jersey-jax-rs-securitycontext-in-action/)
 - [ ] [uber: mysql migration](https://eng.uber.com/mysql-migration/)
-- [ ] [Java中的多线程](http://www.jianshu.com/p/40d4c7aebd66)
+- [X] [Java中的多线程](http://www.jianshu.com/p/40d4c7aebd66)
 - [ ] [lambda expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 - [ ] [java 8 tutorial](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)
 - [ ] [sonar](http://docs.sonarqube.org/display/HOME/SonarQube+Platform)
