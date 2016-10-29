@@ -50,7 +50,7 @@
 
 - [ ] [Redux 入门](https://segmentfault.com/a/1190000005925630)
 - [ ] [react native](http://facebook.github.io/react-native/)
-- [ ] [Full Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+- [X] [Full Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
 ## AngularJS
 
