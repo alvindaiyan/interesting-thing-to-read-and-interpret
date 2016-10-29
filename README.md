@@ -50,7 +50,7 @@
 
 - [ ] [Redux 入门](https://segmentfault.com/a/1190000005925630)
 - [ ] [react native](http://facebook.github.io/react-native/)
-- [X] [Full Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+- [ ] [Full Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
 ## AngularJS
 
@@ -89,7 +89,7 @@
 - [ ] [The Future of OpenStack's EC2 APIs](http://cloudscaling.com/blog/openstack/the-future-of-openstacks-ec2-apis/)
 - [ ] [openstack theory and practice](http://coreitpro.com/presentations/openstack-theory-and-practice/#/intro)
 - [X] [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
-- [ ] [encrypt your webiste with lets encrypt](https://macken.me/article/encrypt-your-webiste-with-lets-encrypt)
+- [X] [encrypt your webiste with lets encrypt](https://macken.me/article/encrypt-your-webiste-with-lets-encrypt)
 
 ## Container and Virtual Machine: Docker and Vagrant
 
