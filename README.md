@@ -27,7 +27,7 @@
 - [ ] [How To Use RxJava](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava)
 - [ ] [How Does Spring Transactional Really Work](http://blog.jhades.org/how-does-spring-transactional-really-work/)
 - [ ] [why is hibernate open session in view considered a bad practice](http://stackoverflow.com/questions/1103363/why-is-hibernate-open-session-in-view-considered-a-bad-practice)
-- [ ] [Java 9, OSGi and the Future of Modularity part 1](https://www.infoq.com/articles/java9-osgi-future-modularity)[part 2](https://www.infoq.com/articles/java9-osgi-future-modularity-part-2?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
+- [ ] [Java 9, OSGi and the Future of Modularity part 1](https://www.infoq.com/articles/java9-osgi-future-modularity) [part 2](https://www.infoq.com/articles/java9-osgi-future-modularity-part-2?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
 
 # Golang
 
