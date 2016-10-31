@@ -29,6 +29,7 @@
 - [ ] [why is hibernate open session in view considered a bad practice](http://stackoverflow.com/questions/1103363/why-is-hibernate-open-session-in-view-considered-a-bad-practice)
 - [ ] [Java 9, OSGi and the Future of Modularity part 1](https://www.infoq.com/articles/java9-osgi-future-modularity) [part 2](https://www.infoq.com/articles/java9-osgi-future-modularity-part-2?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
 - [ ] [OSGi: Learning Resources & Tutorials](https://www.osgi.org/developer/resources/learning-resources-tutorials/)
+- [ ] [OSGi Modularity - Tutorial](http://www.vogella.com/tutorials/OSGi/article.html)
 
 # Golang
 
