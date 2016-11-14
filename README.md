@@ -32,6 +32,7 @@
 - [ ] [OSGi Modularity - Tutorial](http://www.vogella.com/tutorials/OSGi/article.html)
 - [ ] [Reactive programming with Java 8 and simple-react : The Tutorial](https://medium.com/@johnmcclean/reactive-programming-with-java-8-and-simple-react-the-tutorial-3634f512eeb1#.glnakxupf)
 - [ ] [最近5年133个Java面试问题列表](https://zhuanlan.zhihu.com/p/23533393)
+- [ ] [Java Volatile Keyword](http://tutorials.jenkov.com/java-concurrency/volatile.html)
 
 # Golang
 
