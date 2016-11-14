@@ -7,6 +7,8 @@
 - [X] [Spring Data Cassandra - Reference Documentation](http://docs.spring.io/spring-data/cassandra/docs/1.4.4.RELEASE/reference/html/)
 - [X] [每个架构师都应该研究下康威定律](http://www.infoq.com/cn/articles/every-architect-should-study-conway-law)
 - [X] [微服务架构的理论基础 - 康威定律](https://yq.aliyun.com/articles/8611)
+- [ ] [Nginx负载均衡](http://www.rowkey.me/blog/2014/08/27/nginx-loadbalance/)
+- [ ] [架构设计基础知识整理](https://blog.dreamtobe.cn/2016/10/25/oo_architecture/)
 
 
 # Java and Database
