@@ -117,5 +117,5 @@
 # Machine Learning and Algorithm
 
 - [ ] [深度丨从零搭建推荐体系](http://www.jianshu.com/p/d585b3938dea)
-- [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [X] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
