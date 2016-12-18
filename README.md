@@ -117,6 +117,8 @@
 - [X] [Dockerized postgresql development environment](http://ryaneschinger.com/blog/dockerized-postgresql-development-environment/)
 - [X] [8 proven real world ways to use docker](https://www.airpair.com/docker/posts/8-proven-real-world-ways-to-use-docker)
 - [X] [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
+- [ ] [Service Discovery: Zookeeper vs etcd vs Consul](https://technologyconversations.com/2015/09/08/service-discovery-zookeeper-vs-etcd-vs-consul/)
+- [ ] [CONSUL VS. ZOOKEEPER, DOOZERD, ETCD](https://www.consul.io/intro/vs/zookeeper.html)
 
 ## AWS
 
