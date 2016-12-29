@@ -87,6 +87,7 @@
 
 - [ ] [Vue 2.0，渐进式前端解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484393&idx=1&sn=142b8e37dfc94de07be211607e468030&chksm=9723612ba054e83db6622a891287af119bb63708f1b7a09aed9149d846c9428ad5abbb822294&mpshare=1&scene=1&srcid=1026oUz3521V74ua0uwTcIWa&from=groupmessage&isappinstalled=0#wechat_redirect)
 - [ ] [推荐五个Vue2的免费教程](https://gold.xitu.io/post/584cc93b8e450a006ac2196d)
+- [ ] [Why we chose Vue.js over React](http://pixeljets.com/blog/why-we-chose-vuejs-over-react)
 
 ### Vue Material Design
 
