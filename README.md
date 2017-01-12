@@ -137,4 +137,5 @@
 
 - [ ] [深度丨从零搭建推荐体系](http://www.jianshu.com/p/d585b3938dea)
 - [X] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [ ] [Python NLTK学习](http://www.burnelltek.com/blog/8658d836c36111e6841d00163e0c0e36)
 
