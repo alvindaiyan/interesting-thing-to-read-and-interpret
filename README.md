@@ -139,4 +139,6 @@
 - [X] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [ ] [Python NLTK学习](http://www.burnelltek.com/blog/8658d836c36111e6841d00163e0c0e36)
 - [ ] [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/)
+- [ ] [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
+- [ ] [利用Python进行深度学习的完整入门指南](http://mp.weixin.qq.com/s/4fuhL7Lonj6OjLyyDy167w)
 
