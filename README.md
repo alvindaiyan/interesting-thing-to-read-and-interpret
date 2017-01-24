@@ -141,5 +141,6 @@
 - [ ] [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/)
 - [ ] [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
 - [ ] [利用Python进行深度学习的完整入门指南](http://mp.weixin.qq.com/s/4fuhL7Lonj6OjLyyDy167w)
-- [ ] [NumPy的详细教程](http://blog.csdn.net/lsjseu/article/details/20359201) [An Introduction to Scientific Python – NumPy](http://www.datadependence.com/2016/05/scientific-python-numpy/)
+- [ ] [NumPy的详细教程](http://blog.csdn.net/lsjseu/article/details/20359201) 
+- [ ] [An Introduction to Scientific Python – NumPy](http://www.datadependence.com/2016/05/scientific-python-numpy/)
 
