@@ -126,6 +126,7 @@
 - [X] [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
 - [ ] [Service Discovery: Zookeeper vs etcd vs Consul](https://technologyconversations.com/2015/09/08/service-discovery-zookeeper-vs-etcd-vs-consul/)
 - [ ] [CONSUL VS. ZOOKEEPER, DOOZERD, ETCD](https://www.consul.io/intro/vs/zookeeper.html)
+- [ ] [One year using Kubernetes in production: Lessons learned](https://techbeacon.com/one-year-using-kubernetes-production-lessons-learned)
 
 ## AWS
 
