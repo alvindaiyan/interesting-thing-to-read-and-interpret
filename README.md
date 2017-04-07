@@ -100,7 +100,7 @@
 - [ ] [vuetifyjs](https://vuetifyjs.com/)
 
 
-# Cloud Computing 
+# Cloud Computing and Devops
 
 ## General
 
@@ -119,6 +119,11 @@
 - [ ] [openstack theory and practice](http://coreitpro.com/presentations/openstack-theory-and-practice/#/intro)
 - [X] [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 - [X] [encrypt your webiste with lets encrypt](https://macken.me/article/encrypt-your-webiste-with-lets-encrypt)
+
+## CI & CD
+
+- [ ] [Preparing for Continuous Delivery in the Enterprise](https://www.infoq.com/articles/preparing-for-cd-in-the-enterprise)
+- [ ] [Orchestrating Your Delivery Pipelines with Jenkins](https://www.infoq.com/articles/orch-pipelines-jenkins)
 
 ## Container and Virtual Machine: Docker and Vagrant
 
