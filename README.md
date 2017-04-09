@@ -22,7 +22,7 @@
 # Java and Database
 
 - [X] [mvn clean install vs. deploy vs. release](http://stackoverflow.com/questions/3660759/mvn-clean-install-vs-deploy-vs-release)
-- [ ] [JAX-RS方式的RESTful Web Service开发](http://han-zw.iteye.com/blog/1197476)
+- [X] [JAX-RS方式的RESTful Web Service开发](http://han-zw.iteye.com/blog/1197476)
 - [ ] [Spring MVC与JAX-RS比较与分析](https://www.infoq.com/articles/springmvc_jsx-rs)
 - [X] [jetty-9-ssl-https](https://newfivefour.com/jetty-9-ssl-https.html)
 - [X] [myBatis mapper xml documentation](http://www.mybatis.org/mybatis-3/sqlmap-xml.html)
