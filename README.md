@@ -16,7 +16,7 @@
 - [ ] [Nginx负载均衡](http://www.rowkey.me/blog/2014/08/27/nginx-loadbalance/)
 - [X] [架构设计基础知识整理](https://blog.dreamtobe.cn/2016/10/25/oo_architecture/)
 - [ ] [如何开发出一款仿映客直播APP项目实践篇 -【服务器搭建+推流】](http://ios.jobbole.com/92323/)
-- [ ] [monolith defense](https://www.infoq.com/articles/monolith-defense-part-1)
+- [X] [monolith defense](https://www.infoq.com/articles/monolith-defense-part-1)
 
 
 # Java and Database
@@ -35,7 +35,7 @@
 - [ ] [sonar](http://docs.sonarqube.org/display/HOME/SonarQube+Platform)
 - [X] [Solr 6.2 搭建搜索引擎应用实践](http://www.jianshu.com/p/3d64412f8c40)
 - [ ] [How To Use RxJava](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava)
-- [ ] [How Does Spring Transactional Really Work](http://blog.jhades.org/how-does-spring-transactional-really-work/)
+- [X] [How Does Spring Transactional Really Work](http://blog.jhades.org/how-does-spring-transactional-really-work/)
 - [ ] [why is hibernate open session in view considered a bad practice](http://stackoverflow.com/questions/1103363/why-is-hibernate-open-session-in-view-considered-a-bad-practice)
 - [ ] [Java 9, OSGi and the Future of Modularity part 1](https://www.infoq.com/articles/java9-osgi-future-modularity) [part 2](https://www.infoq.com/articles/java9-osgi-future-modularity-part-2?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
 - [ ] [OSGi: Learning Resources & Tutorials](https://www.osgi.org/developer/resources/learning-resources-tutorials/)
