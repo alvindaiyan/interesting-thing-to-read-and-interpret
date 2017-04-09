@@ -75,7 +75,6 @@
 
 ## AngularJS
 
-- [ ] [angular-tutorial](https://docs.angularjs.org/tutorial)
 - [ ] [xufei/blog](https://github.com/xufei/blog)
 - [X] [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - [ ] [angular tutorial](https://github.com/angular/angular.js/wiki)
