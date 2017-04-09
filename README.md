@@ -1,8 +1,8 @@
 # Product UI and UX Design
 
-- [ ] [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.w5tzm890u)
+- [X] [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.w5tzm890u)
 - [ ] [2016年最值得学习的五大开源项目](http://www.jianshu.com/p/8180cc105f01)
-- [ ] [如何优雅地使用Sublime Text](http://jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
+- [X] [如何优雅地使用Sublime Text](http://jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 
 # Backend Architecture
 
