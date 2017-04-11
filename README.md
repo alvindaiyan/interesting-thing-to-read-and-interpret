@@ -67,6 +67,7 @@
 - [ ] [https://gist.github.com/staltz/868e7e9bc2a7b8c1f754](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [X] [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [ ] [How to become a designer without going to design school](http://www.karenx.com/blog/how-to-become-a-designer-without-going-to-design-school/)
+- [ ] [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 
 ## ReactJS
 
