@@ -47,6 +47,7 @@
 - [X] [How does Spring @Transactional Really Work?](http://blog.jhades.org/how-does-spring-transactional-really-work/)
 - [ ] [Tomcat 集群实现源码级别剖析](https://juejin.im/post/58ead22b8d6d8100618aed06)
 - [ ] [Tomcat组成与工作原理](https://juejin.im/post/58eb5fdda0bb9f00692a78fc)
+- [ ] [Java 内存管理白皮书](https://juejin.im/post/58fca9465c497d00580068ff)
 
 # Golang
 
