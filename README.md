@@ -90,6 +90,7 @@
 - [X] [angular with es2016](http://egorsmirnov.me/assets/berlin-angular-meetup-26/#/)
 - [ ] [Testing AngularJS with Jasmine and Karma Part 1,](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1) [Part 2](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-2)
 - [ ] [Angular 2 修仙之路](https://juejin.im/post/58e5a9c22f301e00622bf4f1)
+- [ ] [angular2 first look](http://angular2-first-look.azurewebsites.net/)
 
 ## VueJS
 
