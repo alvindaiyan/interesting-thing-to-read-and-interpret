@@ -157,5 +157,5 @@
 - [ ] [利用Python进行深度学习的完整入门指南](http://mp.weixin.qq.com/s/4fuhL7Lonj6OjLyyDy167w)
 - [ ] [NumPy的详细教程](http://blog.csdn.net/lsjseu/article/details/20359201) 
 - [ ] [An Introduction to Scientific Python – NumPy](http://www.datadependence.com/2016/05/scientific-python-numpy/)
-- [ ] [计算机的潜意识](http://www.cnblogs.com/subconscious/p/4107357.html)
+- [ ] [从机器学习谈起](http://www.cnblogs.com/subconscious/p/4107357.html)
 
