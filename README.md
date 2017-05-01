@@ -127,7 +127,7 @@
 
 ## CI & CD
 
-- [ ] [Preparing for Continuous Delivery in the Enterprise](https://www.infoq.com/articles/preparing-for-cd-in-the-enterprise)
+- [X] [Preparing for Continuous Delivery in the Enterprise](https://www.infoq.com/articles/preparing-for-cd-in-the-enterprise)
 - [ ] [Orchestrating Your Delivery Pipelines with Jenkins](https://www.infoq.com/articles/orch-pipelines-jenkins)
 
 ## Container and Virtual Machine: Docker and Vagrant
