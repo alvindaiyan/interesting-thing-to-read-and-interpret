@@ -124,6 +124,8 @@
 - [ ] [openstack theory and practice](http://coreitpro.com/presentations/openstack-theory-and-practice/#/intro)
 - [X] [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 - [X] [encrypt your webiste with lets encrypt](https://macken.me/article/encrypt-your-webiste-with-lets-encrypt)
+- [ ] [In or Out? Kubernetes一统江湖的野心 - 写在Kubernetes 1.6即将发布之际](https://jishu.io/kubernetes/in-or-out/)
+- [ ] [2016年容器技术思考：Docker, Kubernetes, Mesos 将走向何方？](http://jolestar.com/container-ecosystem/)
 
 ## CI & CD
 
