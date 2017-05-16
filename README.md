@@ -99,7 +99,7 @@
 - [ ] [推荐五个Vue2的免费教程](https://gold.xitu.io/post/584cc93b8e450a006ac2196d)
 - [ ] [Why we chose Vue.js over React](http://pixeljets.com/blog/why-we-chose-vuejs-over-react)
 - [ ] [how to write vue better](http://jeffjade.com/2017/03/11/120-how-to-write-vue-better/)
-- [] [Vue.js 实战总结](https://juejin.im/post/591981be2f301e006bb62879)
+- [X] [Vue.js 实战总结](https://juejin.im/post/591981be2f301e006bb62879)
 
 ### Vue Material Design
 
