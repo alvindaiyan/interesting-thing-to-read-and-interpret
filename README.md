@@ -78,6 +78,7 @@
 - [ ] [How to become a designer without going to design school](http://www.karenx.com/blog/how-to-become-a-designer-without-going-to-design-school/)
 - [ ] [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 - [ ] [文件上传那些事儿](https://www.qcloud.com/community/article/985614?fromSource=gwzcw.114059.114059.114059)
+- [X] [Angular 2: Intruduction to the RxJS](http://dakolech.github.io/ng2-rxjs-prolog/#/)
 
 ## ReactJS
 
