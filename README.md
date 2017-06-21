@@ -80,6 +80,7 @@
 - [ ] [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 - [ ] [文件上传那些事儿](https://www.qcloud.com/community/article/985614?fromSource=gwzcw.114059.114059.114059)
 - [X] [Angular 2: Intruduction to the RxJS](http://dakolech.github.io/ng2-rxjs-prolog/#/)
+- [X] [JavaScript同步、异步、回调执行顺序之经典闭包setTimeout面试题分析](https://segmentfault.com/a/1190000008922457) 
 
 ## ReactJS
 
