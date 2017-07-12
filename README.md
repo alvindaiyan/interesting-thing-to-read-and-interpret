@@ -18,6 +18,7 @@
 - [ ] [如何开发出一款仿映客直播APP项目实践篇 -【服务器搭建+推流】](http://ios.jobbole.com/92323/)
 - [X] [monolith defense](https://www.infoq.com/articles/monolith-defense-part-1)
 - [ ] [Server-side I/O Performance: Node vs. PHP vs. Java vs. Go](http://www.itran.cc/2017/05/17/server-side-io-performance-node-php-java-go/)
+- [ ] [图解 TCP 三次握手与四次分手](https://juejin.im/post/59648ccef265da6c244302d8)
 
 
 # Java and Database
