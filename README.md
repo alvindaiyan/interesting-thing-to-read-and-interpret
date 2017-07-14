@@ -112,6 +112,7 @@
 - [ ] [Why we chose Vue.js over React](http://pixeljets.com/blog/why-we-chose-vuejs-over-react)
 - [ ] [how to write vue better](http://jeffjade.com/2017/03/11/120-how-to-write-vue-better/)
 - [X] [Vue.js 实战总结](https://juejin.im/post/591981be2f301e006bb62879)
+- [ ] [Upgrading Ele.me to Progressive Web App](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)
 
 ### Vue Material Design
 
