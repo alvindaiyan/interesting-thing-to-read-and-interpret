@@ -58,6 +58,7 @@
 
 - [X] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
 - [X] [Introduction go debugging gdb](https://lincolnloop.com/blog/introduction-go-debugging-gdb/)
+- [ ] [A Makefile for your Go project](https://vincent.bernat.im/en/blog/2017-makefile-build-golang)
 
 # Front-End
 
@@ -159,6 +160,7 @@
 - [ ] [Service Discovery: Zookeeper vs etcd vs Consul](https://technologyconversations.com/2015/09/08/service-discovery-zookeeper-vs-etcd-vs-consul/)
 - [ ] [CONSUL VS. ZOOKEEPER, DOOZERD, ETCD](https://www.consul.io/intro/vs/zookeeper.html)
 - [ ] [One year using Kubernetes in production: Lessons learned](https://techbeacon.com/one-year-using-kubernetes-production-lessons-learned)
+- [ ] [Simple Makefile to build, run, tag and publish a docker containier to AWS-ECR](https://gist.github.com/mpneuried/0594963ad38e68917ef189b4e6a269db)
 
 ## AWS
 
