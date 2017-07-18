@@ -19,6 +19,7 @@
 - [X] [monolith defense](https://www.infoq.com/articles/monolith-defense-part-1)
 - [ ] [Server-side I/O Performance: Node vs. PHP vs. Java vs. Go](http://www.itran.cc/2017/05/17/server-side-io-performance-node-php-java-go/)
 - [ ] [图解 TCP 三次握手与四次分手](https://juejin.im/post/59648ccef265da6c244302d8)
+- [ ] [深入了解 gRPC：协议](https://juejin.im/post/596de3caf265da6c3d6c5312)
 
 
 # Java and Database
@@ -51,6 +52,7 @@
 - [ ] [Tomcat组成与工作原理](https://juejin.im/post/58eb5fdda0bb9f00692a78fc)
 - [ ] [Java 内存管理白皮书](https://juejin.im/post/58fca9465c497d00580068ff)
 - [ ] [Spring探险（一）：加载和管理普通对象(上）](http://www.jianshu.com/p/65814effe7a5)
+- [ ] [Java 并发入门](http://www.jianshu.com/p/9415c51ea38a)
 
 # Golang
 
