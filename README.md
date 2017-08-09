@@ -180,3 +180,6 @@
 - [ ] [An Introduction to Scientific Python – NumPy](http://www.datadependence.com/2016/05/scientific-python-numpy/)
 - [ ] [从机器学习谈起](http://www.cnblogs.com/subconscious/p/4107357.html)
 
+## Azure
+
+- [ ] [Jenkins on Azure](https://docs.microsoft.com/en-us/azure/jenkins/?utm_content=bufferb9dde&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
