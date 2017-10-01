@@ -21,6 +21,7 @@
 - [ ] [图解 TCP 三次握手与四次分手](https://juejin.im/post/59648ccef265da6c244302d8)
 - [ ] [深入了解 gRPC：协议](https://juejin.im/post/596de3caf265da6c3d6c5312)
 - [X] [微服务的4大设计原则和19个解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650997859&idx=1&sn=7b6e76bbca33b068f1c7269f45978c2f&chksm=bdbefc308ac975267ae919eb3885476a963025a434dad96d537e3bbc212763ce1834fd3cc997&scene=0&key=b7658f799b2253c6eb41663105acb444224b57943d9ac1d80fed6a7e963c12a610efaf69ea2180be703d5561f0eda5c57b2012f038e4f9e30f37b99eb3ebba799ae22ce28a26e4d0d905f3d269d7e3de&ascene=0&uin=Mjg3MjQ3NTAwMw%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.6+build(16G29)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=QLwP9ZX4cbP%2FKqnFbTrEm0QOtlEZh91CctjL77%2FWftrwNwrAvuSpCnYVdtCMci0u)
+- [ ] [Comparing Golang with Java](https://dzone.com/articles/comparing-golang-with-java)
 
 
 # Java and Database
