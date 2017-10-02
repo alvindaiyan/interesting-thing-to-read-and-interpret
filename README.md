@@ -56,11 +56,12 @@
 - [ ] [Spring探险（一）：加载和管理普通对象(上）](http://www.jianshu.com/p/65814effe7a5)
 - [ ] [Java 并发入门](http://www.jianshu.com/p/9415c51ea38a)
 
-# Golang
+# Go
 
 - [X] [Concurrency is not Parallelism](https://talks.golang.org/2012/waza.slide#1)
 - [X] [Introduction go debugging gdb](https://lincolnloop.com/blog/introduction-go-debugging-gdb/)
 - [ ] [A Makefile for your Go project](https://vincent.bernat.im/en/blog/2017-makefile-build-golang)
+- [ ] [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 
 # Front-End
 
