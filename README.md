@@ -182,7 +182,7 @@
 - [ ] [NumPy的详细教程](http://blog.csdn.net/lsjseu/article/details/20359201) 
 - [ ] [An Introduction to Scientific Python – NumPy](http://www.datadependence.com/2016/05/scientific-python-numpy/)
 - [ ] [从机器学习谈起](http://www.cnblogs.com/subconscious/p/4107357.html)
-- [ ] [Kaggle入门系列](https://zhuanlan.zhihu.com/p/29417603)
+- [X] [Kaggle入门系列](https://zhuanlan.zhihu.com/p/29417603)
 - [X] [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 ## Azure
