@@ -184,6 +184,7 @@
 - [ ] [从机器学习谈起](http://www.cnblogs.com/subconscious/p/4107357.html)
 - [X] [Kaggle入门系列](https://zhuanlan.zhihu.com/p/29417603)
 - [X] [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+- [ ] [Build an Autonomous Vehicle](https://aws.amazon.com/blogs/ai/build-an-autonomous-vehicle-part-2-driving-your-vehicle/?sc_channel=sm&sc_campaign=AWS_reInvent&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_TWITTER&sc_content=robocar_rally_reinvent&linkId=43895362)
 
 ## Azure
 
