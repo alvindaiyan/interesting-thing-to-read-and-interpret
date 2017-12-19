@@ -189,6 +189,8 @@
 ## Azure
 
 - [ ] [Jenkins on Azure](https://docs.microsoft.com/en-us/azure/jenkins/?utm_content=bufferb9dde&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [ ] [Manage Azure App Service Deployments with Deployment Slots](https://buildazure.com/2016/10/12/manage-azure-app-service-deployments-with-deployment-slots/)
+- [ ] [Why you should be using Azure App Service deployment slots](https://www.azurebarry.com/azure-deployment-slots/)
 
 # IoT
 
