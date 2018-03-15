@@ -185,6 +185,7 @@
 - [X] [Kaggle入门系列](https://zhuanlan.zhihu.com/p/29417603)
 - [X] [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 - [ ] [Build an Autonomous Vehicle](https://aws.amazon.com/blogs/ai/build-an-autonomous-vehicle-part-2-driving-your-vehicle/?sc_channel=sm&sc_campaign=AWS_reInvent&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_TWITTER&sc_content=robocar_rally_reinvent&linkId=43895362)
+- [ ] [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
 
 ## Azure
 
